@@ -20,6 +20,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".MasterTwoActivity"></activity>
+        <activity android:name=".TestBranchActivity" />
+        <activity android:name=".TestBranchTwoActivity"></activity>
     </application>
 
 </manifest>

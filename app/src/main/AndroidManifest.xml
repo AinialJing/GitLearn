@@ -19,7 +19,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".TestBranchActivity"></activity>
+        <activity android:name=".TestBranchActivity" />
+        <activity android:name=".TestBranchTwoActivity"></activity>
     </application>
 
 </manifest>
